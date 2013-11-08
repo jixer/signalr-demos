@@ -1,0 +1,14 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo1", "Demo1", "{0E6DFDBC-7EED-4D9A-B768-D1FDAEF5AE34}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo3", "Demo3", "{0F3FEF05-2DB6-41C4-B4CF-FCA457EE006F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo4", "Demo4", "{16170074-885B-4F2E-95AF-A506F0D434B6}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
