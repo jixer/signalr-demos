@@ -7,8 +7,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo3", "Demo3", "{0F3FEF05
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo4", "Demo4", "{16170074-885B-4F2E-95AF-A506F0D434B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Basic\Web\Web.csproj", "{7DF7155F-35DD-4B75-96DB-2D937D5AC381}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DF7155F-35DD-4B75-96DB-2D937D5AC381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF7155F-35DD-4B75-96DB-2D937D5AC381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF7155F-35DD-4B75-96DB-2D937D5AC381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF7155F-35DD-4B75-96DB-2D937D5AC381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7DF7155F-35DD-4B75-96DB-2D937D5AC381} = {0E6DFDBC-7EED-4D9A-B768-D1FDAEF5AE34}
 	EndGlobalSection
 EndGlobal
